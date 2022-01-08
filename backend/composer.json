@@ -1,0 +1,16 @@
+{
+    "name": "valamandar/server",
+    "authors": [
+        {
+            "name": "Vala Mandar",
+            "email": "valamandar1@gmail.com"
+        }
+    ],
+    "autoload":{
+        "psr-4":{
+            "App\\": "src/"
+        }
+
+    },
+    "require": {}
+}
